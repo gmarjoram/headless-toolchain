@@ -30,6 +30,5 @@ services:
       type: clone
       has_issues: true
       enable_traceability: true
-  sample-build:
   webide:
     service_id: orion
