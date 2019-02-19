@@ -9,7 +9,6 @@ template:
   header: '![](toolchain.svg?localize)'
   icon: icon.svg
   required:
-    - sample-build
     - sample-repo
   info:
     git url: >-
