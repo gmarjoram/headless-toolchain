@@ -1,4 +1,4 @@
-version: '5'
+version: '6'
 messages:
   $i18n: locales.yml
 template:
