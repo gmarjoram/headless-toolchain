@@ -16,7 +16,7 @@ template:
     git branch: >-
       [master](https://github.com/gmarjoram/headless-toolchain/tree/master)
 toolchain:
-  name: 'gary5-simple-toolchain-{{timestamp}}'
+  name: 'gary-simple-toolchain-{{timestamp}}'
   template:
     getting_started:
       $ref: "#/messages/template.gettingStarted"
