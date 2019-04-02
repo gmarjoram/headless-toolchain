@@ -2,7 +2,7 @@
 root:
   $ref: ./nls/messages.yml
 de:
-  $ref: ./nls/messages_dee.yml
+  $ref: ./nls/messages_de.yml
 en-AA:
   $ref: ./nls/messages_en_AA.yml
 en-RR:
