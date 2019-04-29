@@ -3,7 +3,7 @@ messages:
   $i18n: locales.yml
 template:
   name:
-    $ref: "#/messages/template.name"
+    $ref: "#/messages/template.name + #/messages/template.description"
   description:
     $ref: "#/messages/template.description"
   header: '![](toolchain.svg?localize)'
